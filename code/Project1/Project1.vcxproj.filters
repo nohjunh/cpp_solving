@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\10/05수업시간">
+      <UniqueIdentifier>{6358720e-db36-4607-bcf4-d0b7e0af0f5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\과제1 3장 실전문제">
+      <UniqueIdentifier>{c95571bb-b3bc-4e7f-890f-7a6b5e917d1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\과제1 3장 실전문제\3장 10번">
+      <UniqueIdentifier>{cf7bb7c7-138a-4fec-abdb-c63261939f21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\과제1 3장 실전문제\3장 12번">
+      <UniqueIdentifier>{b5cb8567-af4a-4737-8b33-33779745be8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\과제1 4장 실전문제">
+      <UniqueIdentifier>{dbf30a6f-4a84-47e6-92bc-56f07f4c5fe4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CheckTime 문제풀이">
+      <UniqueIdentifier>{60b5c600-0cd3-4c85-9d42-6f8fab333895}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\10/07수업시간">
+      <UniqueIdentifier>{84aae88d-7d8c-4865-a119-de4c5c47c676}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\10/12수업시간">
+      <UniqueIdentifier>{71171be6-87b7-46f7-83f3-33689a8bbc14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\10/14수업시간">
+      <UniqueIdentifier>{6e03dd41-3ded-4904-840a-cf74f4621e9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\10/28 수업내용">
+      <UniqueIdentifier>{9c974aae-8b28-4246-8997-ebb9dc3b1535}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\과제2 6장 실습문제">
+      <UniqueIdentifier>{813420fd-a715-4209-b3b9-105c888ae795}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\과제2 7장 실습문제">
+      <UniqueIdentifier>{d9f38aaa-15dc-43e6-b1ca-f73f25c822d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\과제2 8장 실습문제">
+      <UniqueIdentifier>{199c5671-b194-468f-a992-6c7889ac5b66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\과제3 9장 실습문제">
+      <UniqueIdentifier>{f79313b1-5259-43df-bf65-a548f596c97d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\과제4 10장 실습문제">
+      <UniqueIdentifier>{28ac4090-270e-4661-9210-e664256d7924}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\과제5 11장 실습문제">
+      <UniqueIdentifier>{259db32d-6ef8-4a54-a208-d3134893e800}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Calculator.cpp">
+      <Filter>소스 파일\과제1 3장 실전문제\3장 10번</Filter>
+    </ClCompile>
+    <ClCompile Include="Ram.cpp">
+      <Filter>소스 파일\과제1 3장 실전문제\3장 12번</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일\과제1 3장 실전문제\3장 12번</Filter>
+    </ClCompile>
+    <ClCompile Include="예제5-1.cpp">
+      <Filter>소스 파일\10/05수업시간</Filter>
+    </ClCompile>
+    <ClCompile Include="3장 2번.cpp">
+      <Filter>소스 파일\과제1 3장 실전문제</Filter>
+    </ClCompile>
+    <ClCompile Include="3장 4번.cpp">
+      <Filter>소스 파일\과제1 3장 실전문제</Filter>
+    </ClCompile>
+    <ClCompile Include="3장 6번.cpp">
+      <Filter>소스 파일\과제1 3장 실전문제</Filter>
+    </ClCompile>
+    <ClCompile Include="3장 8번.cpp">
+      <Filter>소스 파일\과제1 3장 실전문제</Filter>
+    </ClCompile>
+    <ClCompile Include="4장 1번.cpp">
+      <Filter>소스 파일\과제1 4장 실전문제</Filter>
+    </ClCompile>
+    <ClCompile Include="4장 3번%281%29.cpp">
+      <Filter>소스 파일\과제1 4장 실전문제</Filter>
+    </ClCompile>
+    <ClCompile Include="4장 3번(2).cpp">
+      <Filter>소스 파일\과제1 4장 실전문제</Filter>
+    </ClCompile>
+    <ClCompile Include="4장 5번.cpp">
+      <Filter>소스 파일\과제1 4장 실전문제</Filter>
+    </ClCompile>
+    <ClCompile Include="4장 7번.cpp">
+      <Filter>소스 파일\과제1 4장 실전문제</Filter>
+    </ClCompile>
+    <ClCompile Include="4장 9번.cpp">
+      <Filter>소스 파일\과제1 4장 실전문제</Filter>
+    </ClCompile>
+    <ClCompile Include="4장 11번.cpp">
+      <Filter>소스 파일\과제1 4장 실전문제</Filter>
+    </ClCompile>
+    <ClCompile Include="4장 13번.cpp">
+      <Filter>소스 파일\과제1 4장 실전문제</Filter>
+    </ClCompile>
+    <ClCompile Include="p.202checkTime.cpp">
+      <Filter>소스 파일\CheckTime 문제풀이</Filter>
+    </ClCompile>
+    <ClCompile Include="p169CheckTime.cpp">
+      <Filter>소스 파일\CheckTime 문제풀이</Filter>
+    </ClCompile>
+    <ClCompile Include="예제 5-2.cpp">
+      <Filter>소스 파일\10/05수업시간</Filter>
+    </ClCompile>
+    <ClCompile Include="예제5-3.cpp">
+      <Filter>소스 파일\10/05수업시간</Filter>
+    </ClCompile>
+    <ClCompile Include="예제5-5.cpp">
+      <Filter>소스 파일\10/05수업시간</Filter>
+    </ClCompile>
+    <ClCompile Include="예제5-7.cpp">
+      <Filter>소스 파일\10/07수업시간</Filter>
+    </ClCompile>
+    <ClCompile Include="예제5-8.cpp">
+      <Filter>소스 파일\10/07수업시간</Filter>
+    </ClCompile>
+    <ClCompile Include="예제5-10.cpp">
+      <Filter>소스 파일\10/07수업시간</Filter>
+    </ClCompile>
+    <ClCompile Include="예제6-2.cpp">
+      <Filter>소스 파일\10/12수업시간</Filter>
+    </ClCompile>
+    <ClCompile Include="예제6-3.cpp">
+      <Filter>소스 파일\10/12수업시간</Filter>
+    </ClCompile>
+    <ClCompile Include="예제6-6.cpp">
+      <Filter>소스 파일\10/12수업시간</Filter>
+    </ClCompile>
+    <ClCompile Include="예제6-8.cpp">
+      <Filter>소스 파일\10/12수업시간</Filter>
+    </ClCompile>
+    <ClCompile Include="p300.cpp">
+      <Filter>소스 파일\10/14수업시간</Filter>
+    </ClCompile>
+    <ClCompile Include="p302.cpp">
+      <Filter>소스 파일\10/14수업시간</Filter>
+    </ClCompile>
+    <ClCompile Include="ex6-11.cpp">
+      <Filter>소스 파일\10/14수업시간</Filter>
+    </ClCompile>
+    <ClCompile Include="7-2ex.cpp">
+      <Filter>소스 파일\10/28 수업내용</Filter>
+    </ClCompile>
+    <ClCompile Include="ex02.cpp">
+      <Filter>소스 파일\과제2 6장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="ex04.cpp">
+      <Filter>소스 파일\과제2 6장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="ex06.cpp">
+      <Filter>소스 파일\과제2 6장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="ex08.cpp">
+      <Filter>소스 파일\과제2 6장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="7장 2-1번.cpp">
+      <Filter>소스 파일\과제2 7장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="7장 2-2번.cpp">
+      <Filter>소스 파일\과제2 7장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="7장 4번.cpp">
+      <Filter>소스 파일\과제2 7장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="7장 6-1번.cpp">
+      <Filter>소스 파일\과제2 7장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="7장 6-2번.cpp">
+      <Filter>소스 파일\과제2 7장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="7장 8번.cpp">
+      <Filter>소스 파일\과제2 7장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="7장 10번.cpp">
+      <Filter>소스 파일\과제2 7장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="7장 12번.cpp">
+      <Filter>소스 파일\과제2 7장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="8장 2번.cpp">
+      <Filter>소스 파일\과제2 8장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="8장 4번.cpp">
+      <Filter>소스 파일\과제2 8장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="8장 6번.cpp">
+      <Filter>소스 파일\과제2 8장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="8장 8번.cpp">
+      <Filter>소스 파일\과제2 8장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="9장 ex02.cpp">
+      <Filter>소스 파일\과제3 9장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="9장 ex04.cpp">
+      <Filter>소스 파일\과제3 9장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="9장 ex08.cpp">
+      <Filter>소스 파일\과제3 9장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="10.ex02.cpp">
+      <Filter>소스 파일\과제4 10장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="10.ex08.cpp">
+      <Filter>소스 파일\과제4 10장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="10.ex14.cpp">
+      <Filter>소스 파일\과제4 10장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="5장 ex02.cpp">
+      <Filter>소스 파일\과제5 11장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="11장 ex09.cpp">
+      <Filter>소스 파일\과제5 11장 실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="11장 ex07.cpp">
+      <Filter>소스 파일\과제5 11장 실습문제</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Calculator.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Ram.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+﻿  ex4-10.cpp
+C:\Users\k\Desktop\2021-2 자료\C++\FollowClass\0928\Ex\ex4-10.cpp(42,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'Circle *'입니다.
+C:\Users\k\Desktop\2021-2 자료\C++\FollowClass\0928\Ex\ex4-10.cpp(43,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'Circle *'입니다.
+  Ex.vcxproj -> C:\Users\k\Desktop\2021-2 자료\C++\FollowClass\0928\Ex\Debug\Ex.exe
